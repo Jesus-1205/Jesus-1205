@@ -43,7 +43,7 @@ Desarrollador de Software Full-Stack con núcleo en **TypeScript (React 19)** y 
 * **[JavaScript Developer Certification (~300h)](https://freecodecamp.org/espanol/certification/jesus-1205/javascript-v9)** — *freeCodeCamp* (Ago 2026)  
   *Algoritmos avanzados, estructuras de datos complejas y programación funcional con ES6+.*
 
-* **[GitHub Foundations (9h)](https://www.datacamp.com/statement-of-accomplishment/course/862499)** — *DataCamp* (Jun 2026 | Credencial `#862,499`)  
+* **[GitHub Foundations (9h)](https://www.datacamp.com/completed/statement-of-accomplishment/track/c6004cb53a4bcfb5ad507698f90bddbce187c35c)** — *DataCamp* (Jun 2026 | Credencial `#862,499`)  
   *Control de versiones avanzado, flujos colaborativos y fundamentos de GitHub Actions.*
 
 ---
